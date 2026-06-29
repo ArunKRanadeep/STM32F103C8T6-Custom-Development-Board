@@ -25,7 +25,7 @@ VDDA analog power filtering
 
 * 3D PCB verified
 
-  Tools Used
+Tools Used :-
 KiCad 9
 STM32CubeMX
 STM32CubeIDE
