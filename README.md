@@ -26,8 +26,8 @@ VDDA analog power filtering
 * 3D PCB verified
 
 Tools Used :-
-KiCad 9
-STM32CubeMX
+KiCad 9 , 
+STM32CubeMX , 
 STM32CubeIDE
 
 This project enhanced my skills in embedded hardware design, schematic capture, PCB layout, power supply design, and STM32-based embedded systems.
