@@ -19,11 +19,11 @@ BOOT0 selection switch
 VDDA analog power filtering
   Design Validation
 
-✔ ERC Passed
+* ERC Passed
 
-✔ DRC Passed
+* DRC Passed
 
-✔ 3D PCB verified
+* 3D PCB verified
 
   Tools Used
 KiCad 9
